@@ -2,4 +2,4 @@
 #MD
 
 This is where I will keep all of the Molecular dynamics (MD) simulations
-11. ryr1: this is a MARTINI Residue-Based Coarse-Grain MD simulation. **Note:** work in progress  
+1. ryr1: this is a MARTINI Residue-Based Coarse-Grain MD simulation. **Note:** work in progress  
