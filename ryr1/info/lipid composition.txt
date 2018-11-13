@@ -1,0 +1,25 @@
+    LIPID COMPOSITION IN SKELETAL MUSCLE OF RABBIT 
+
+* The average phospholipid compositions for various types of SR (http://www.jbc.org/content/257/23/14136.full.pdf)
+1. PC (phosphatidylcholine): 68%
+2. PE (phosphatidylethanolamine): 16%
+3. PS (phosphatidylserine): 05%
+4. SM (sphingo): 04%
+5. PI (phosphatidylinositol): 07%
+=========================== = 100%
+
+1 cholesterol for every 9 phospholipids
+
+
+calculations:
+2016 lipids * 0.68 = 1071/2 = 685 of PC (POPC)
+2016 lipids * 0.16 = 322/2 = 161 of PE (POPE) 
+
+2016 lipids * 0.05 = 100/2 = 50 of PS (POPS) missing topology 
+2016 lipids * 0.04 = 80/2 = 40 of SM (PSM) missing topology
+2016 lipids * 0.07 = 141/2 = 70 of PI (POPI) missing topology
+
+112 lipids of cholesterol (CHL1)
+== 2016 phospholipids + 224 cholesterol = 2240 lipids
+
+
